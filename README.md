@@ -69,6 +69,7 @@ This week introduces the concept of mapping data to visual aesthetics—such as 
 
 ### [Week 12: Visualizaon Map, Treemap](Week12.md)
 
+### [ Week 14: Word Visualizaion](Week14.md)
 
 ### [Week 15: Final Project](Final_Project.md)
 
