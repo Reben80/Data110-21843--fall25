@@ -34,13 +34,13 @@ Your task is to select a dataset, perform a comprehensive exploratory data analy
 - Include all code used for data manipulation and visualization in an appendix or linked Jupyter Notebook/Colab file.
 
 ### 5. Presentation
-- Prepare a **7-minute presentation** summarizing your project.
+- Prepare a **5-minute presentation** summarizing your project.
 - Limit your main content to **8 slides max** (excluding title and conclusion).
 - Your presentation should include:
   - A quick overview of your dataset and analysis goals.
   - Key interactive and static visualizations.
   - A strong narrative arc that explains the “so what?” of your findings.
-- You may use PowerPoint, Google Slides, Keynote, or an interactive presentation tool like [Slides.com](https://slides.com/).
+
 - **Before the presentation day**, you must **submit a recorded version** of your talk (screen recording or voiceover slideshow). This ensures preparedness and serves as a backup.
 
 ---
