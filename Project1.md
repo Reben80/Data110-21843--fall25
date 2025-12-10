@@ -56,5 +56,5 @@ Your task is to select a dataset, perform exploratory data analysis (EDA), and p
 2. **Narrative**: Fully answer the introduction and conclusion sections, based on requirements.
 3. **Submission Format**: Submit the final version in HTML, PDF, or as a Notebook file from Jupyter or Google Colab, via GitHub or a similar platform.
 4. **Timeliness**: Submit the project on time.
-5. **Language**: Submission must be carefully edited for grammar, punctuation, and sentence structure.
+
 
